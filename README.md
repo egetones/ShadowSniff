@@ -10,7 +10,7 @@
   <strong>A raw socket packet sniffer for analyzing TCP traffic on Linux.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/shadowsniff/issues) · [Request Feature](https://github.com/your-username/shadowsniff/issues)
+[Report Bug](https://github.com/egetones/shadowsniff/issues) · [Request Feature](https://github.com/egetones/shadowsniff/issues)
 
 </div>
 
